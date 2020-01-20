@@ -21,7 +21,7 @@ launch Jupyter notebook into terminal:
 
     $ jupyter notebook
 
-Then open notebook [Notebook.ipynb]([Notebook.ipynb])
+Then open notebook [Notebook.ipynb]([https://github.com/ericfokou/Titanic/blob/master/Notebook.ipynb])
 
 ## Release History
 
@@ -40,10 +40,12 @@ Fork it:
 
 Then create your feature branch and commit your changes.
 
-## Authors
+## Support
 
 Eric FOKOU 
+
 [@fokou_eric](https://twitter.com/fokou_eric)
+
 [fokoub@gmail.com]([email])
 
 
