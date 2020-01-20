@@ -12,7 +12,7 @@ Here we used the Challenge Titanic dataset: [https://www.kaggle.com/c/titanic/da
 - numpy 1.16.4
 - pandas 0.24.2
 - matplotlib 1.16.4
-- sklearn 0.20.1
+- sklearn 0.22.1
 
 
 ## Usage example
@@ -44,8 +44,8 @@ Then create your feature branch and commit your changes.
 
 Eric FOKOU 
 
-- [fokoub@gmail.com](mailto:fokoub@gmail.com)
-- Twitter at <a href="http://twitter.com/fokou_eric" target="_blank">`@fokou_eric`</a>
+- email: [fokoub@gmail.com](mailto:fokoub@gmail.com)
+- Twitter: <a href="http://twitter.com/fokou_eric" target="_blank">`@fokou_eric`</a>
 
 
 
