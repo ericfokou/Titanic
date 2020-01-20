@@ -30,7 +30,7 @@ Then open notebook [Notebook.ipynb]([https://github.com/ericfokou/Titanic/blob/m
 
 ## Questions?
 
-If you find a bug, feel free to write me [open an issue]([fokoub@gmail.com]).
+If you find a bug, feel free to write me <a href="fokoub@gmail.com" target="_blank">`fokoub@gmail.com`</a>.
 
 ## Contributing
 
@@ -44,8 +44,7 @@ Then create your feature branch and commit your changes.
 
 Eric FOKOU 
 
-[@fokou_eric](https://twitter.com/fokou_eric)
-
-[fokoub@gmail.com]([email])
+- email at <a href="fokoub@gmail.com" target="_blank">`fokoub@gmail.com`</a>
+- Twitter at <a href="http://twitter.com/fokou_eric" target="_blank">`@fokou_eric`</a>
 
 
